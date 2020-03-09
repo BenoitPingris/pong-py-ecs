@@ -16,6 +16,7 @@ def main():
     w.step(0)
     print(e.get_component('position').x)
     print(e.get_component('position').y)
+    print(2)
     return 0
 
 
